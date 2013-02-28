@@ -1,0 +1,12 @@
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\bin\Debug\PaymentKiosk.exe.config
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\bin\Debug\PaymentKiosk.exe
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\bin\Debug\PaymentKiosk.pdb
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\PaymentKiosk.About.frmAbout.resources
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\PaymentKiosk.Configurations.frmConfiguration.resources
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\PaymentKiosk.frmMain.resources
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\PaymentKiosk.Properties.Resources.resources
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\PaymentKiosk.exe
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\PaymentKiosk\PaymentKiosk\obj\x86\Debug\PaymentKiosk.pdb
